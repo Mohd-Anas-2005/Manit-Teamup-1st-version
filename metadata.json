@@ -1,0 +1,6 @@
+{
+  "name": "MANIT TeamUp",
+  "description": "Find teammates for hackathons, coding competitions, college projects, startup ideas, and technical events at MANIT Bhopal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
